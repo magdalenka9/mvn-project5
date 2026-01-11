@@ -1,7 +1,6 @@
 package org.example;
 
 import net.datafaker.Faker;
-import org.example.*;
 
 public class Main {
 
